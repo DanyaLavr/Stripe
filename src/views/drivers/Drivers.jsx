@@ -12,7 +12,7 @@ const drivers = [
       inst: "https://www.instagram.com/",
       linkedin: "https://www.linkedin.com/",
     },
-    photo: "../../../public/assets/images/drivers/avatar.png",
+    photo: "/assets/images/drivers/avatar.png",
   },
   {
     name: "Володимир",
@@ -21,7 +21,7 @@ const drivers = [
       inst: "https://www.instagram.com/",
       linkedin: "https://www.linkedin.com/",
     },
-    photo: "../../../public/assets/images/drivers/avatar.png",
+    photo: "/assets/images/drivers/avatar.png",
   },
   {
     name: "Ірина",
@@ -30,7 +30,7 @@ const drivers = [
       inst: "https://www.instagram.com/",
       linkedin: "https://www.linkedin.com/",
     },
-    photo: "../../../public/assets/images/drivers/avatar.png",
+    photo: "/assets/images/drivers/avatar.png",
   },
   {
     name: "Михайло",
@@ -39,7 +39,7 @@ const drivers = [
       inst: "https://www.instagram.com/",
       linkedin: "https://www.linkedin.com/",
     },
-    photo: "../../../public/assets/images/drivers/avatar.png",
+    photo: "/assets/images/drivers/avatar.png",
   },
   {
     name: "Юлія",
@@ -48,7 +48,7 @@ const drivers = [
       inst: "https://www.instagram.com/",
       linkedin: "https://www.linkedin.com/",
     },
-    photo: "../../../public/assets/images/drivers/Yulia.png",
+    photo: "/assets/images/drivers/Yulia.png",
   },
   {
     name: "Олена",
@@ -57,7 +57,7 @@ const drivers = [
       inst: "https://www.instagram.com/",
       linkedin: "https://www.linkedin.com/",
     },
-    photo: "../../../public/assets/images/drivers/avatar.png",
+    photo: "/assets/images/drivers/avatar.png",
   },
   {
     name: "Данило",
@@ -66,7 +66,7 @@ const drivers = [
       inst: "https://www.instagram.com/",
       linkedin: "https://www.linkedin.com/in/danylo-lavrovskyi-23751a27a/",
     },
-    photo: "../../../public/assets/images/drivers/Danylo.jpeg",
+    photo: "/assets/images/drivers/Danylo.jpeg",
   },
 ];
 const Drivers = () => {

@@ -17,7 +17,7 @@ const company = {
   trips: "43 Поїздок",
   link: "https://stripe.com",
   tel: "+38 (073) 555 55 55",
-  img: "../../../public/assets/images/hero/company-logo.png",
+  img: "/assets/images/hero/company-logo.png",
   started: "1306800000000",
   passengers: "4000+",
   cars: "8 бусів",
