@@ -1,0 +1,28 @@
+@import "tailwindcss";
+@theme {
+  --color-main: #515b6f;
+  --color-opposite: #d6ddeb;
+  --color-accent: #4640de;
+  --color-titles: #25324b;
+  --color-subtitles: #7c8493;
+
+  --font-main: "Rubik", "sans-serif";
+  --font-roboto: "Roboto", "sans-serif";
+  --font-title: "Lato", "sans-serif";
+
+  --breakpoint-desktop: 90rem;
+}
+
+html {
+  font-family: "Rubik", "sans-serif";
+}
+.title {
+  font-family: "Lato", "sans-serif";
+  font-weight: 900;
+  font-size: 32px;
+  line-height: 120%;
+  color: #25324b;
+}
+body:has(.modal) {
+  overflow: hidden;
+}
